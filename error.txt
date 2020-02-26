@@ -1,3 +1,4 @@
+$ git commit -m 'Add PR template'
 An unexpected error has occurred: CalledProcessError: command: ('/home/master/.cache/pre-commit/repo0An3xc/py_env-python2.7/bin/python', u'/home/master/.cache/pre-commit/repo0An3xc/py_env-python2.7/bin/pip', 'install', '.')
 return code: 1
 expected return code: 0
